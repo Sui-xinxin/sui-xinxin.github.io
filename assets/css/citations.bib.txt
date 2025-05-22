@@ -1,0 +1,191 @@
+@article{li2020climate,
+  title={Climate Changes and Their Teleconnections With ENSO Over the Last 55 Years, 1961--2015, in Floods-Dominated Basin, Jiangxi Province, China},
+  author={Li, Hongyi and Zhong, Xiaoyong and Ma, Ziqiang and Tang, Guoqiang and Ding, Leiding and Sui, Xinxin and Xu, Jintao and He, Yu},
+  journal={Earth and Space Science},
+  volume={7},
+  number={3},
+  pages={e2019EA001047},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+@article{sui2020ground,
+  title={Ground validation and error sources identification for GPM IMERG product over the southeast coastal regions of China},
+  author={Sui, Xinxin and Li, Zhi and Ma, Ziqiang and Xu, Jintao and Zhu, Siyu and Liu, Hui},
+  journal={Remote Sensing},
+  volume={12},
+  number={24},
+  pages={4154},
+  year={2020},
+  publisher={MDPI}
+}
+
+@inproceedings{sui2021novel,
+  title={A novel approach to systematically evaluate precipitation datasets using decision trees},
+  author={Sui, Xinxin and Li, Zhi and Tang, Guoqiang and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={AGU Fall Meeting Abstracts},
+  volume={2021},
+  pages={H25R--1227},
+  year={2021}
+}
+
+@inproceedings{sui2022novel,
+  title={A novel approach to systematically analyze the error structure of precipitation datasets using decision trees},
+  author={Sui, Xinxin and Li, Zhi and Tang, Guoqiang and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={EGU General Assembly Conference Abstracts},
+  pages={EGU22--13345},
+  year={2022}
+}
+
+@article{wei2022evaluating,
+  title={Evaluating remote sensing precipitation products using double instrumental variable method},
+  author={Wei, Zhihao and Long, Xunjian and Gai, Yingying and Yang, Zekun and Sui, Xinxin and Chen, Xi and Kan, Guangyuan and Fan, Wenjie and Cui, Yaokui},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{sui2022disentangling,
+  title={Disentangling error structures of precipitation datasets using decision trees},
+  author={Sui, Xinxin and Li, Zhi and Tang, Guoqiang and Yang, Zong-Liang and Niyogi, Dev},
+  journal={Remote Sensing of Environment},
+  volume={280},
+  pages={113185},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{sui2023influence,
+  title={The influence of low impact development (LID) on basin runoff in a half-urbanized catchment: a case study in San Antonio, Texas},
+  author={Sui, Xinxin and van de Ven, Frans HM},
+  journal={Journal of Hydrology},
+  volume={616},
+  pages={128793},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@inproceedings{sui2022evaluating,
+  title={Evaluating and intercomparing satellite and reanalysis precipitation products by using decision trees},
+  author={Sui, Xinxin and Li, Zhi and Tang, Guoqiang and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={AGU Fall Meeting Abstracts},
+  volume={2022},
+  pages={H25A--06},
+  year={2022}
+}
+
+@article{方樟2019含水率对油页岩原位开采冷冻墙形成过程影响的实验研究,
+  title={含水率对油页岩原位开采冷冻墙形成过程影响的实验研究},
+  author={方樟 and 睢鑫昕 and 姜松辰 and 梁秀娟},
+  journal={化工管理},
+  volume={17},
+  year={2019}
+}
+
+@inproceedings{sui2023assessing,
+  title={Assessing Five Precipitation Datasets in Continental US Using Decision Tree Approach},
+  author={Sui, Xinxin and Li, Zhi and Tang, Guoqiang and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={American Meteorological Society Meeting Abstracts},
+  volume={103},
+  pages={E45--2},
+  year={2023}
+}
+
+@article{gai2023toward,
+  title={Toward a better understanding of uncertainty for satellite precipitation products over complex terrain with sparse rain gauge data},
+  author={Gai, Yingying and Long, Xunjian and Wei, Zhihao and Sui, Xinxin and Jiang, Bo and Chen, Xi and Yu, Dingfeng and Qin, Shengguang and Cui, Yaokui},
+  journal={Atmospheric Research},
+  volume={288},
+  pages={106742},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@inproceedings{li2023applying,
+  title={Applying Cygnss and SMAP Soil Moisture Product in Investigating the Brown Ocean Effect: A Case Study during Hurricane Florence},
+  author={Li, Zhi and Tiwari, Alka and Sui, Xinxin and Garrison, James and Niyogi, Dev},
+  booktitle={American Meteorological Society Meeting Abstracts},
+  volume={103},
+  pages={JointJ9A--5},
+  year={2023}
+}
+
+@article{li2023studying,
+  title={Studying Brown ocean Re-intensification of hurricane florence using CYGNSS and SMAP soil moisture data and a numerical weather model},
+  author={Li, Zhi and Tiwari, Alka and Sui, Xinxin and Garrison, James and Marks, Frank and Niyogi, Dev},
+  journal={Geophysical Research Letters},
+  volume={50},
+  number={19},
+  pages={e2023GL105102},
+  year={2023}
+}
+
+@inproceedings{yang2023role,
+  title={The Role of Satellite Remote Sensing in Advancing Urban Climate Research},
+  author={Yang, Zong-Liang and Sui, Xinxin and Kamath, Harsh and Fung, Kwun Yip and Niyogi, Dev},
+  booktitle={AGU Fall Meeting Abstracts},
+  volume={2023},
+  pages={B24A--08},
+  year={2023}
+}
+
+@inproceedings{sui2024city,
+  title={City and Climate Extremes: Scientific and Community Perspectives I Oral},
+  author={Sui, Xinxin and Leung, Ruby and Eisma, Jessica Abbie and Tiwari, Alka},
+  booktitle={AGU24},
+  year={2024},
+  organization={AGU}
+}
+
+@article{sui2024global,
+  title={Global scale assessment of urban precipitation anomalies},
+  author={Sui, Xinxin and Yang, Zong-Liang and Shepherd, Marshall and Niyogi, Dev},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={121},
+  number={38},
+  pages={e2311496121},
+  year={2024},
+  publisher={National Academy of Sciences}
+}
+
+@inproceedings{sui2024urban,
+  title={Urban Precipitation Anomalies: Explained by Diverse Landscapes},
+  author={Sui, Xinxin and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={AGU Fall Meeting Abstracts},
+  volume={2024},
+  pages={A44E--07},
+  year={2024}
+}
+
+@inproceedings{sui2025urban,
+  title={Urban Rainfall Anomalies: Regional and Diurnal Variability under Diverse Landscapes},
+  author={Sui, Xinxin and Yang, Zong-Liang and Niyogi, Dev},
+  booktitle={105th Annual AMS Meeting 2025},
+  volume={105},
+  pages={452285},
+  year={2025}
+}
+
+@inproceedings{sui2024exploring,
+  title={Exploring Urban Precipitation Anomalies: The Influence of Local Climate and Urban Development},
+  author={Sui, Xinxin and Yang, Zong-Liang and Shepherd, J Marshall and Niyogi, Dev},
+  booktitle={104th Annual AMS Meeting 2024},
+  volume={104},
+  pages={435920},
+  year={2024}
+}
+
+@misc{ulku2018sponge,
+  title={Sponge City Project},
+  author={Ulku, Mesut and Sui, Xinxin and van der Lans, Michael and Peynado, Thomas Dillon and Zheng, Jiechen and Fong, Camille},
+  journal={TU Delft Student Project},
+  year={2018},
+  publisher={TU Delft (https://www.tudelft.nl/en/infrastructure)}
+}
+
+@article{uttalsuggested,
+  title={Suggested searches},
+  author={Uttal, William R}
+}
