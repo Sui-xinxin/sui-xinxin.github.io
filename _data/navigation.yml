@@ -2,13 +2,13 @@ docs_list_title: Menu
 docs:
 
 - title: Home
-  url: index.html
+  url: /index.html
 
 - title: Research
-  url: research.html
+  url: /research.html
 
 - title: Publications
-  url: publications.html
+  url: /publications.html
 
-- title: Contact
-  url: contact.html
+- title: News
+  url: /news.html
