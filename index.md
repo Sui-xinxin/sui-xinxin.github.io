@@ -8,7 +8,7 @@ layout: default
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Dr. <a href="https://en.wikipedia.org/wiki/Engineer%27s_degree#Netherlands" target="_blank">ir.</a> Sui, Xinxin</b> <br> <br> <br> <br>I am an urban hydroclimatologist, researching how urbanization alters natural rainfall and runoff processes.<br> <br> <em>“Sui” is both my last name and my nickname - feel free to call me Sui! </em>  </p>
+<p> <b>Dr. <a href="https://en.wikipedia.org/wiki/Engineer%27s_degree#Netherlands" target="_blank">ir.</a> Sui, Xinxin</b> <br> <br> <br> <br>I am a hydroclimatologist studying how human and climate forcings reshape the water cycle. <br> <br> <em>“Sui” is both my last name and my nickname - feel free to call me Sui! </em>  </p>
 
 <!-- Icons Row -->
 <div style="margin-top: 15px; display: flex; gap: 16px; align-items: center;">
@@ -33,7 +33,7 @@ layout: default
 
 ### Education
 
-- **Ph.D.** Civil Engineering, **UT Austin, USA**, 2025 (defended March 28th, 2025)
+- **Ph.D.** Civil Engineering, **UT Austin, USA**, 2025 
 
 - **M.S.** Civil Engineering, **TU Delft, Netherlands**, 2019
 
@@ -43,8 +43,7 @@ layout: default
 
 ### Experience 
 
-<p> Sui, Xinxin received her Ph.D. degree in Civil and Environmental Engineering from the University of Texas at Austin in June 2025, with a specialization in Environmental and Water Resources Engineering. Since 2022, she has been named a Future Investigator in NASA Earth and Space Science and Technology (<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/" target="_blank">FINESST</a>) for her Ph.D. research. 
-Her doctoral work quantifies the influence of urbanization on rainfall patterns across global<sup><a href="/publications#pub10">10</a></sup>, national<sup><a href="/publications#pub11">11</a></sup>, and regional<sup><a href="/publications#pub12">12</a></sup>scales using observation datasets. This work resulted in five first-author manuscripts, including publications in PNAS, and one currently under minor revision at Science Advances. Beyond academic circles, her research has received widespread attention and was featured in over 40 international <a href="https://pnas.altmetric.com/details/167142545/news">media outlets</a>. <br> <br> Her Master’s research at TU Delft simulated rainfall-runoff processes in a semi-urbanized catchment, using the San Antonio basin as a case study. The downstream position of San Antonio City within the basin provided a unique setting to evaluate whether Low Impact Development (LID) or Best Management Practices (BMP), such as green roofs or permeable pavements, can reduce peak runoff or inadvertently intensify flooding at the catchment scale. <br> <br> Prior to Ph.D. study at UT Austin, Sui worked as a research assistant at both Peking University in China and the National University of Singapore. Her academic path is both interdisciplinary and international, spanning hydrology, atmospheric science, remote sensing, and machine learning. This diverse background equips her with a broad perspective and a strong ability to identify and address complex hydroclimate challenges. <b> She is currently on the job market and actively seeking new research opportunities following her Ph.D.</b> <br> </p>
+<p> Sui, Xinxin is an Advanced Study Program (ASP) Postdoctoral Fellow at the National Center for Atmospheric Research (NCAR), starting in 2026, and a former NASA Future Investigator in Earth and Space Science and Technology (<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-63-finesst-smds-graduate-student-research-final-text-and-due-date-released/" target="_blank">FINESST</a>, 2022–2025). She received her Ph.D. in Civil and Environmental Engineering from the University of Texas at Austin, her M.S. from Delft University of Technology in the Netherlands, and her B.E. from Jilin University in China. <br> <br> Her doctoral research investigates the influence of urbanization on precipitation across global (<em>PNAS</em>, 2024<sup><a href="/publications#pub10">10</a></sup>), national (<em>Science Advances</em>, 2025<sup><a href="/publications#pub11">11</a></sup>), and regional (<em>Nature</em>, 2026<sup><a href="/publications#pub12">12</a></sup>) scales. Using satellite-based precipitation datasets, she quantified how annual and extreme precipitation differ between more than 1,000 global cities and their rural surroundings, finding that 63% of these cities experience "urban wet islands," shaped by regional climatological and geographical conditions. This pattern motivated her to disentangle urban effects from regional climate forcings, leading her to investigate the diurnal mechanisms of urban rainfall enhancement across inland, coastal, and complex-terrain cities. Beyond this climatological analysis, she conducted a storm-event analysis, extracting over 40,000 storm events from 23 years of Texas warm seasons to examine how different storm dynamics (convective, frontal, and tropical systems) interact with urbanization. This research has received widespread attention and was featured in over 40 international media outlets, including <em>The Washington Post</em>, <em>USA Today</em>, and <em>PBS Terra</em>. <br> <br> Her Master's research at TU Delft simulated rainfall-runoff processes in a semi-urbanized catchment, using the San Antonio basin as a case study. The downstream position of San Antonio City within the basin provided a unique setting to evaluate whether nature-based water management strategies, such as green roofs and permeable pavements, can reduce peak runoff or inadvertently intensify flooding at the catchment scale. Beyond scientific research, Sui has been involved in applied, real-world projects. This interdisciplinary <a href="https://www.tudelft.nl/infrastructures/onderwijs/studentenprojecten/sponge-city-china">Sponge City project</a>, supported by Arcadis and Delft University of Technology, brought together graduate students in water resources engineering, hydraulic engineering, urban planning, and architecture. As a pilot initiative for academic-industry collaboration, it fostered extensive dialogue among the university, local government, and other stakeholders. <br> <br> Prior to her Ph.D. study at UT Austin, Sui worked as a research assistant at both Peking University in China and the National University of Singapore. This diverse international background, spanning academia and industry, and disciplines including hydrology, atmospheric science, remote sensing, and machine learning, equips her with a broad perspective and a strong ability to identify and address complex hydroclimate and water resources challenges. <br> </p>
 
 ---
 
@@ -54,15 +53,15 @@ Her doctoral work quantifies the influence of urbanization on rainfall patterns 
 
 - Remote Sensing
 
-- Hydrologic Modelling
+- Hydrological Modelling
 
-- Data-Driven Methods
+- Data-driven Approaches
 
 ---
 
 ### Contact
 
-- SuiXinxin@utexas.edu 
+- Xinxin.Sui@mines.edu 
 
 - SuiXinxin95@gmail.com  
 
