@@ -1,6 +1,11 @@
 title: Sui, Xinxin
 description:  睢鑫昕 (Chinese name)
 author: Sui, Xinxin
-author_email: SuiXinxin95@gmail.com / SuiXinxin@utexas.edu
+author_email: SuiXinxin95@gmail.com
 google_analytics: G-GNNRDTX5HK
 theme: jekyll-theme-cayman
+
+collections:
+  news:
+    output: true
+    permalink: /news/:name

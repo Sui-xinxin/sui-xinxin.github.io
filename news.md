@@ -2,21 +2,20 @@
 layout: default
 title: News
 ---
-
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
 
 <style>
 .news-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  max-width: 1200px;
+  position: relative;
+  max-width: 1400px;
   margin: 0 auto;
+  padding: 0 20px;
 }
 
 .news-card {
   width: 340px;
-  margin: 12px;
+  margin-bottom: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 16px;
@@ -43,65 +42,34 @@ title: News
 </style>
 
 <div class="news-grid">
-
-  <div class="news-card">
-    <img src="images/news/20250728-AGU2025_poster1.png">
-    <div class="news-card-title">Submit your abstracts to AGU 2025</div>
-    <div class="news-card-date">July 25, 2025</div>
-    <p>I'm convening two sessions at the upcoming AGU Fall Meeting 2025 in New Orleans! If you're interested in urban hydroclimate research, we warmly welcome you to join us and submit your abstracts. <a href="/news/20250728-AGU2025.html">Read more</a></p>
+{% assign sorted_news = site.news | sort: 'date' | reverse %}
+{% for item in sorted_news %}
+  <div class="news-card" id="{{ item.slug }}">
+    {% if item.image_link %}
+    <a href="{{ item.image_link }}" target="_blank">
+      <img src="{{ item.image }}" alt="{{ item.alt | default: item.title }}">
+    </a>
+    {% else %}
+    <img src="{{ item.image }}" alt="{{ item.alt | default: item.title }}">
+    {% endif %}
+    <div class="news-card-title">{{ item.title }}</div>
+    <div class="news-card-date">{{ item.date | date: "%B %-d, %Y" }}</div>
+    <p>{{ item.content }}</p>
   </div>
-
-  <div class="news-card">
-    <img src="images/news/20250623-UCI.png">
-    <div class="news-card-title">Visit UCI CHRS</div>
-    <div class="news-card-date">June 23, 2025</div>
-    <p>Really appreciate Dr. Amir Aghakouchak for inviting me to visit UC Irvine and the Center for Hydrometeorology and Remote Sensing (CHRS) this summer.<br><br><a href="/news/20250623-UCI.html">Read more</a> for the story behind the big smiles from Dr. Sorooshian and me!</p>
-  </div>
-
-  <div class="news-card">
-    <img src="images/news/BestPhD.jpg" alt="Best PhD Award">
-    <div class="news-card-title">Best PhD Award 2024-2025</div>
-    <div class="news-card-date">April 22, 2025</div>
-    <p>Awarded the Best PhD Talk at the Jackson School of Geosciences, UT Austin.<br><br>Thanks to Shuku for the photo!</p>
-  </div>
-
-  <div class="news-card">
-    <img src="images/news/Defense.png" alt="PhD Defense">
-    <div class="news-card-title">PhD Defense Completed</div>
-    <div class="news-card-date">March 28, 2025</div>
-    <p>Successfully defended my PhD dissertation at UT Austin.<br><br>Grateful to many people,  I would like to share the acknowledgements section of my dissertation here. <a href="/news/defense.html">Read more</a></p>
-  </div>
-
-  <div class="news-card">
-    <img src="images/news/AMS2025.jpg" alt="AMS Presentation">
-    <div class="news-card-title">Presented at AMS 2025</div>
-    <div class="news-card-date">January 17, 2025</div>
-    <p>Shared my work on urban precipitation anomalies at the AMS Annual Meeting.</p>
-  </div>
-
-  <div class="news-card">
-    <img src="images/news/AGU_SessionChair.JPG" alt="AGU Session Chair">
-    <div class="news-card-title">Chaired an Urban Climate Session at AGU 2024</div>
-    <div class="news-card-date">December 12, 2024</div>
-    <p>Co-chaired an urban climate session with Dr. Ruby Leung, Dr. Jessica Eisma, and Dr. Alka Tiwari at the AGU Fall Meeting.<br><br>(Does anyone else wonder why it’s called the “Fall” Meeting while it’s always held in mid-December?).</p>
-  </div>
-
-  <div class="news-card">
-  <a href="https://www.youtube.com/watch?v=RjoRttLlkW0" target="_blank">
-    <img src="https://img.youtube.com/vi/RjoRttLlkW0/hqdefault.jpg" alt="YouTube Talk Thumbnail" />
-  </a>
-  <div class="news-card-title">TV Interview with PBS Terra</div>
-  <div class="news-card-date">November 14 2024</div>
-  <p>I’m thrilled to share that I was invited for a TV interview with PBS Terra, where I talked about how cities can shape surrounding storms and rainfall intensity. It was such an exciting experience to bring urban hydroclimate science to a wider audience! <br><br> <a href="https://www.youtube.com/watch?v=RjoRttLlkW0" target="_blank">Watch video</a></p>
-  </div>
-
-  <div class="news-card">
-    <img src="images/news/TAMU.png" alt="Visit Texas A&M">
-    <div class="news-card-title">Summer Visit to Texas A&M</div>
-    <div class="news-card-date">July 25, 2024</div>
-    <p>I really enjoyed my three-week visit with Dr. John Nielsen-Gammon’s group and the Southern Regional Climate Center at Texas A&M University. Every group member was warm, sincere, and dedicated. Thanks to Alison and BJ for introducing me to Blue Baker. I loved that brunch spot! I’m excited to continue collaborating with Dr. Nielsen-Gammon to deepen our understanding of Texas climate and water resources. Howdy! </p>
-  </div>
-  
+{% endfor %}
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var grid = document.querySelector('.news-grid');
+  imagesLoaded(grid, function() {
+    var msnry = new Masonry(grid, {
+      itemSelector: '.news-card',
+      columnWidth: '.news-card',
+      gutter: 20,
+      horizontalOrder: true
+    });
+  });
+});
+</script>
 ---

@@ -29,7 +29,11 @@ layout: default
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
----
+
+{% assign latest = site.news | sort: 'date' | reverse | first %}
+<p style="margin-top: 15px;">
+<a href="{{ latest.url }}">Latest News: {{ latest.title }} ({{ latest.date | date: "%B %-d, %Y" }})</a>
+</p>
 
 ### Education
 
