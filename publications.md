@@ -5,19 +5,21 @@ title: Publications
 
 <ol reversed>
 
-  <li id="pub14"><strong>Sui, X.</strong> (2025). Discovering Causal Factors in Urban Climate Anomalies: Urbanization, Local Climate, or Global Warming? <em>In preparation.</em></li>
+  <li id="pub14"><strong>Sui, X.</strong> (2026). Scale-Dependent Causality in Urban Climate Anomalies <em>In Progress.</em></li>
 
-  <li><strong>Sui, X. & Yang, Z. </strong> (2025). Nonlinear Evapotranspiration Responses to Urban Development. <em>Geophysical Research Letters.</em> <em>Under review.</em></li>
+  <li><strong>Sui, X.</strong>, Chakraborty, TC., & Yang, Z. (2026). Three-Dimensional Building Morphology Influences Satellite-Derived Evapotranspiration Estimates. <em>In Progress.</em></li>
 
-  <li id="pub12"><strong>Sui, X.</strong> (2025). Divergent Urban Storm Responses: Convective, Frontal, and Tropical Systems <em>Nature.</em> <em>Under review.</em></li>
+  <li id="pub12"><strong>Sui, X.</strong>, Yang, Z., & Niyogi, D. (2026). Divergent Urban Storm Response to Convective, Frontal, and Tropical Systems <em>Nature</em>, pp.1-7. <a href="https://www.nature.com/articles/s41586-026-10479-7" target="_blank">https://doi.org/10.1038/s41586-026-10479-7</a></li>
 
-  <li id="pub11"><strong>Sui, X.</strong>, Yang, Z., & Niyogi, D. (2025). Diurnal Urban Precipitation Anomalies across Diverse Landscapes. <em>Science Advances.</em> <em>Accept.</em></li>
+  <li>Hu, C., Tam, C.Y., <strong>Sui, X.</strong>, Cheung, K.K., Li, Y., & Yang, Z. (2026). Urbanization and Local-scale storm characteristics dominate spatially divergent tropical cyclone rainfall trends in South China. <em>npj Natural Hazards</em>, 3(1), p.25. <a href="https://doi.org/10.1038/s44304-026-00189-5" target="_blank">https://doi.org/10.1038/s44304-026-00189-5</a></li>
+
+  <li id="pub11"><strong>Sui, X.</strong>, Yang, Z., & Niyogi, D. (2025). Diurnal Urban Precipitation Anomalies across Diverse Landscapes. <em>Science Advances</em>, 11(33), p.eads5046. <a href="https://doi.org/10.1126/sciadv.ads5046" target="_blank">https://doi.org/10.1126/sciadv.ads5046</a></li>
 
   <li id="pub10"><strong>Sui, X.</strong>, Yang, Z., Shepherd, M., & Niyogi, D. (2024). Global scale assessment of urban precipitation anomalies. <em>Proceedings of the National Academy of Sciences</em>, 121(38), e2311496121. <a href="https://doi.org/10.1073/pnas.2311496121" target="_blank">https://doi.org/10.1073/pnas.2311496121</a></li>
 
-  <li>Li, Z., Tiwari, A., <strong>Sui, X.</strong>, Garrison, J., Marks, F., & Niyogi, D. (2023). Studying Brown Ocean Re-intensification of Hurricane Florence using CYGNSS and SMAP soil moisture data and a numerical weather model. <em>Geophysical Research Letters</em>, 50(19), e2023GL105102. <a href="https://doi.org/10.1029/2023GL105102" target="_blank">https://doi.org/10.1029/2023GL105102</a></li>
+  <li id="pub9"><strong>Sui, X.</strong>, & van de Ven, F.H.M. (2023). The influence of Low Impact Development (LID) on basin runoff in a half-urbanized catchment: A case study in San Antonio, Texas. <em>Journal of Hydrology</em>, 616, 128793. <a href="https://doi.org/10.1016/j.jhydrol.2023.128793" target="_blank">https://doi.org/10.1016/j.jhydrol.2023.128793</a></li>
 
-  <li id="pub8"><strong>Sui, X.</strong>, & van de Ven, F.H.M. (2023). The influence of Low Impact Development (LID) on basin runoff in a half-urbanized catchment: A case study in San Antonio, Texas. <em>Journal of Hydrology</em>, 616, 128793. <a href="https://doi.org/10.1016/j.jhydrol.2023.128793" target="_blank">https://doi.org/10.1016/j.jhydrol.2023.128793</a></li>
+  <li>Li, Z., Tiwari, A., <strong>Sui, X.</strong>, Garrison, J., Marks, F., & Niyogi, D. (2023). Studying Brown Ocean Re-intensification of Hurricane Florence using CYGNSS and SMAP soil moisture data and a numerical weather model. <em>Geophysical Research Letters</em>, 50(19), e2023GL105102. <a href="https://doi.org/10.1029/2023GL105102" target="_blank">https://doi.org/10.1029/2023GL105102</a></li>
 
   <li>Gai, Y., Long, X., Wei, Z., <strong>Sui, X.</strong>, Jiang, B., Chen, X., Yu, D., Qin, S., & Cui, Y. (2023). Toward a better understanding of uncertainty for satellite precipitation products over complex terrain with sparse rain gauge data. <em>Atmospheric Research</em>, 288, 106742. <a href="https://doi.org/10.1016/j.atmosres.2023.106742" target="_blank">https://doi.org/10.1016/j.atmosres.2023.106742</a></li>
 
