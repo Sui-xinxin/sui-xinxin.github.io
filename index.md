@@ -32,7 +32,7 @@ layout: default
 
 {% assign latest = site.news | sort: 'date' | reverse | first %}
 <p style="margin-top: 15px;">
-<a href="{{ latest.url }}">Latest News: {{ latest.title }} ({{ latest.date | date: "%B %-d, %Y" }})</a>
+<a href="/news.html">Latest News: {{ latest.title }} ({{ latest.date | date: "%B %-d, %Y" }})</a>
 </p>
 
 ### Education
