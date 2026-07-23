@@ -8,7 +8,7 @@ layout: default
     <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Dr. <a href="https://en.wikipedia.org/wiki/Engineer%27s_degree#Netherlands" target="_blank">ir.</a> Sui, Xinxin</b> <br> <br> <br> <br>I am a hydroclimatologist studying how human and climate forcings reshape the water cycle. <br> <br> <em>“Sui” is both my last name and my nickname (it's a rare surname in China) - feel free to call me Sui! </em>  </p>
+<p> <b>Dr. <a href="https://en.wikipedia.org/wiki/Engineer%27s_degree#Netherlands" target="_blank">ir.</a> Sui, Xinxin</b> <br> <br> <br> <br>I am a hydroclimatologist studying coupled human–hydroclimate systems, from how urbanization and land use change reshape precipitation and runoff to how those extremes impact water resources and human activities. <br> <br> <em>“Sui” is both my last name and my nickname (it's a rare surname in China) - feel free to call me Sui! </em>  </p>
 
 <!-- Icons Row -->
 <div style="margin-top: 15px; display: flex; gap: 16px; align-items: center;">
